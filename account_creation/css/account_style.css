@@ -1,0 +1,11 @@
+input[type="text"] {
+  width: 200px;
+  margin: 5px;
+  border: 1px solid red;
+  border-radius: 6px;
+}
+
+main p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
+}
